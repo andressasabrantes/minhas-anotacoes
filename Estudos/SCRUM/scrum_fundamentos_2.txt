@@ -1,0 +1,64 @@
+Princípios Scrum -
+
+Controle de processos empíricos;
+Auto-organização;
+Colaboração;
+Priorização baseada em valor;
+Time boxing;
+Desenvolvimento iterativo;
+
+Organização:
+Dono do produto
+Scrummaster
+Scrummaster chefe
+Time scrum
+
+Teorias de RH:
+Forming 
+Storming 
+Norming 
+Performing 
+Adjourning
+
+Gerenciamento de conflitos
+
+Justificativa de negocio:
+
+->entrega orientada a valor
+requisitos priorizados;
+gerencia melhor riscos e mudanças;
+gera valor de forma rapida;
+deve ser feito pelo dono do produto
+
+->por que esse produto é necessario?
+justificativa do projeto
+necessidades do negocio
+beneficio(melhoria) do projeto
+custo de oportunidade
+riscos maiores (eventos incertos)
+prazo
+custo (investimentos e outros custos)
+
+analise do valor agregado(ava)
+dfc (demonstração de fluxo de caixa)
+vpr (variação de prazos)
+indice de desempenho de prazos
+indice de desempenho de custos 
+orçamento no termino
+estimativa para terminar
+estimativa no término
+
+Qualidade:
+priorização de acordo com estórias mais importanes nas sprints
+manutenção de um ritmo sustentável de trabalho, melhorando a qualidade a longo prazo
+criterios de aceitação bem definidos 
+definição de pronto
+ciclo pdca - metodo utilizado para melhoria contínua
+->planejamento - execução - verificação - agir corretivamente (correção de falhas encontradas nos passos anteriores)
+
+Mudanças:
+
+Riscos:
+
+
+ 

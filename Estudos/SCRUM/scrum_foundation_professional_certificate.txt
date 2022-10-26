@@ -1,0 +1,115 @@
+O que é um projeto
+-esforço temporario empreendido para criar um produo, serviço ou resultado exclusivo
+-inicio e fim bem definidos
+
+Agilidade no projeto
+-eliminar o desperdício
+-realizar um caminho o menor numero de vezes possível
+-ser assertivo e buscando qualidade
+
+Modelo cascata
+-uma fase só inicia-se após termino da fase anterior
+-waterfall
+-foco em planos detalhados definidos no princípio do projeto
+-mudanças geralmente são indesejadas
+______________________________________________________________________________________________________________
+
+-fase análise e definição do requisito
+-projeto
+-implementação
+-testes
+-manutenção
+
+Modelos ágeis ou iterativos
+-software e produtos inovadores não seguem fluxo
+-raro o cliente saber exatamente o que quer logo no início
+-cliente precisa ter paciência
+
+Tipos de projeto (modelo cynefin)
+-simples (casquinha)
+-complicado (ponte)
+-complexo (software)
+-caótico (mercado de ações)
+
+MVP
+-minimum viable product
+ menor investimento possivel
+-testar eficiência,usabilidade, aceitação
+-pode ser corrigido na fase inicial do projeto
+-evitar grandes investimentos onde nao se sabe qual será a aceitação no mercado
+think it (pensar)
+build it (construir)
+ship it (entregar)
+tweak it (refinar)
+
+Manifesto ágil
+-valores ageis
+-principios ageis
+
+Valores
+-individuos e interações mais que processos e ferramentas
+-software em funcionamento mais que documentação(somente o necessário) abrangente
+-colaboração com o cliente mais que negociação de contratos
+-responder a mudanças mais que seguir um plano
+
+Principios
+-satisfazer o cliente através da entrega adiantada e contínua de software de valor
+-aceitar mudanças de requisitos mesmo no fim do desenvolvimento
+-entregar software funcionando com frequencia, com preferencias aos períodos mais curtos
+-pessoas relacionadas ao negocio devem trabalhar em conjunto e diariamente durante todo o curso do projeto
+-construir projetos ao redor de indivíduos motivados, dando a eles o ambiente e suporte necessário
+-o método mais eficiente de comunicação é o cara a cara
+-software funcional é a medida primária do progresso
+-processos ágeis promovem um ambiente sustentável
+-contínua atenção à excelencia técnica e bom design
+-simplicidade:a arte de maximizar a quantidade de trabalho que não precisou ser feito
+-times auto-organizáveis
+-em intervalos regulares o time reflete em como ficar mais efetivo e se ajustam 
+
+Lean thinking
+-toda iniciativa precisa ser baseada no cliente, criando valor a esse publico
+-eliminar desperdícios
+-como melhorar o trabalho, qual o problema que precisamos resolver e como desenvolver pessoas
+principios lean>
+-definir valor sobre a perspectiva do cliente, o que ele quer
+-fluxo de valor - identificar as etapas que agregam valor ao serviço
+-fluxo continuo - estabelecer um fluxo continuo sem interrupções para produção de atividade
+-produção puxada - fazer apenas o que o cliente desejar
+-perfeição - busca pela melhoria continua
+-problema=oportunidade
+-aprendizado contínuo
+-satisfação do cliente
+
+os 7+1 desperdícios do Lean
+-desperdício é atividade que consome recurso mas não traz valor para o consumidor final
+-transporte ~ movimentação excessiva
+-inventário excessivo 
+-movimentação desnecessários ~ maquinário e funcionários
+-espera
+-produção excessiva, aquela que excede a demanda do consumidor
+-processamento excessivo (adição de produtos extras que não terá utilidade real)
+-trabalhos defeituosos
+-não utilização correta do capital intelectual
+
+Lean no desenvolvimento de software 
+
+Papéis e responsabilidades no scrum
+-dono do produto
+-scrum master
+-developers
+
+Artefatos oficiais
+-backlog do produto
+-backlog da sprint
+-incremento
+
+Eventos obrigatórios
+-sprints
+-reunião de planejamento da sprint
+-reunião diária
+-revisão e retrospectiva
+-refinamento de backlog
+-scrum de scrums
+
+parametro para prova: 
+https://www.diariomunicipal.sc.gov.br/arquivosbd/atos/2022/06/1656457532_leiassinado0025690001.pdf

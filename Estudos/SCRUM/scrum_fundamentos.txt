@@ -1,0 +1,94 @@
+framework de gerenciamento de projetos;
+
+ambiente de responsabilidade coletiva;
+
+utilização de times multifuncionais;
+
+-> negociação do projeto (reunião com steakholders, ou partes interessadas) - declaração da visão do projeto - backlog do produto(lista priorizada
+de requisitos do negócio escritas no formato de historias de usuario) - backlog do sprint (ciclo curto e concentrado onde uma certa quantidade de 
+trabalho tem que ser feita) - entregáveis aceitos
+
+GUIA SBOK
+utilizado pelo time scrum para melhor compreender os processos do scrum e ferramentas que possam ser utilizados para criar produtos ou serviços
+do projeto
+
+
+principios do scrum:
+
+controle de processos empíricos, auto-organização, colaboração, priorização baseada em valor (entregar o maximo de valor do negócio durante todo
+o projeto), time-boxing(varios eventos tem uma duração limitada, como sprints e reunião) e desenvolvimento iterativo(trabalho dividido em iteração,
+como sprints)
+
+
+aspectos considerados importantes para todos os processos scrum:
+
+justificativa de negócio - avaliação adequada do negócio
+qualidade - capacidade dos produtos em atender os critérios de aceitação e alcançar o valor de negócio esperado pelo cliente
+mudança - as partes interessadas podem e mudam de ideia diversas vezes durante o projeto 
+risco - oportunidade ou ameaça
+
+artefatos:
+declaração de visão do projeto - apresentar um scopo preliminar do projeto com objetivos, metas e justificativa de sua existência
+backlog do produto - lista de itens priorizados com requisitos funcionais e não funcionais do sistema
+backlog da sprint - lista de tarefas que o time do projeto define para implementar na sprint
+épicos - estórias grandes ainda não refinadas no backlog priorizado do produto
+estória de usuário - promessa de discussão de funcionalidade ou lembrete de discussão ocorrida
+gráfico de burn down
+scrum task board
+
+eventos do scrum:
+sprint - possuir metas estabelecidas buscando entregas parciais de funcionalidade ao cliente 
+definição do objetivo pelo dono do produto - o que será feito 
+estimativa de trabalho - criação do backlog da sprint - como será feito
+reunião diária do scrum
+revisão da sprint feita pelo dono do produto
+retrospectiva da sprint - inspecionar como ocorreu a ultima sprint, avaliado o que funcionou e o que nao funcionou
+refinamento do backlog priorizado do produto - feito pelo dono do produto
+
+processos do scrum:
+
+iniciar - criar visão do projeto
+identificar o scrum e as partes interessadas
+formar o time scrum
+desenvolver os épicos
+criar backlog priorizado do produto
+conduzir o planejamento da release
+
+planejar e estimar - criar as estórias de usuário
+aprovar, estimar e comprometer as estórias de usuário
+criar as tarefas
+estimar as tarefas
+criar backlog da sprint
+
+implementar - criar os entregáveis
+conduzir a reunião diária
+refinamento do backlog priorizado do produto
+
+revisão e retrospectiva - convocar o scrum de scrums
+desmonstrar e validar a sprint
+retrospectiva da sprint
+
+release - envio de entregáveis
+retrospectiva do projeto
+
+história do scrum
+
+porque usar o scrum:
+adaptabilidade
+foco no cliente
+entrega contínua de valor
+entrega antecpiada de alto valor(processo de criação do backlog priorizado do produto, garantindo que as exigencias de maior valor para o cliente
+sejam atendidas primeiro)
+feedback contínuo (reuniões diárias, sprints)
+transparência 
+ambiente de confiança
+ambiente de melhoria contínua
+ritmo sustentável
+processo de desenvolvimento eficiente
+motivação
+solução de problema de forma rápida com a criação de times multifuncionais
+entregas eficazes 
+responsabilidade coletiva
+
+escalabilidade enquanto framework:
+tamanho ideal - entre 6 a 10 membros
